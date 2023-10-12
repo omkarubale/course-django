@@ -7,6 +7,7 @@ name = "pypi"
 django = "*"
 black = "*"
 django-debug-toolbar = "*"
+mysqlclient = "*"
 
 [dev-packages]
 flake8 = "*"
