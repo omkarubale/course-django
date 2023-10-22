@@ -1,7 +1,7 @@
 from django.urls import path
 from . import views
 
-# URL Conf module
+# URLConf
 urlpatterns = [
-    path('hello', views.say_hello)
+    path('hello/', views.say_hello)
 ]

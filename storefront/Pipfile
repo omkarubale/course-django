@@ -5,12 +5,10 @@ name = "pypi"
 
 [packages]
 django = "*"
-black = "*"
 django-debug-toolbar = "*"
 mysqlclient = "*"
 
 [dev-packages]
-flake8 = "*"
 
 [requires]
 python_version = "3.9"
